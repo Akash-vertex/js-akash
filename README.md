@@ -1,0 +1,2 @@
+# js-akash
+Learning JS
